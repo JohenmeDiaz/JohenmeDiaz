@@ -9,7 +9,7 @@
 ## 🛠 Featured IT Projects  
 
 ### Help Desk & Ticketing Systems  
-- [osTicket: Prerequisites & Installation](https://github.com/JohenmeDiaz/osticket-prereqs)  
+- [osTicket: Prerequisites & Installation](https://github.com/JohenmeDiaz/osTicket-Setup-Tutorial)  
 - [osTicket: Post-Installation Configuration](https://github.com/JohenmeDiaz/post-install-config)  
 - [osTicket: Ticket Lifecycle Examples](https://github.com/JohenmeDiaz/ticket-lifecycle)  
 
